@@ -3,6 +3,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+Laura was here!
+
 This repository supports pyOpenSci workshops focused on Python packaging.
 
 ## Getting started
